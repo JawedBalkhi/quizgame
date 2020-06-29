@@ -1,0 +1,101 @@
+[
+    {
+        "question": "Which of the following answers does not belong to data quality activity?",
+        "optionA": "Realization",
+        "optionB": "Skimming.",
+        "optionC": "Validation",
+        "optionD": "Detailed analysis",
+        "answer": "Skimming.",
+        "tip":"Right answer: Skimming. Feedback: Data will be repeated when it is not free of duplicate value."
+
+    },
+    {
+        "question": "When do we speak of high quality data?",
+        "optionA": "When the data is complex",
+        "optionB": "When the data is incoherent",
+        "optionC": "When the data is inaccessible",
+        "optionD": "When the data is unambiguous.",
+        "answer": "When the data is unambiguous.",
+        "tip":"To speak of high quality-data, data needs to be explici"
+        
+    },
+    {
+        "question": "What do we mean when data is free of duplicate value?",
+        "optionA": "It is filtered",
+        "optionB": "It is fixed",
+        "optionC": "It is not repeated.",
+        "optionD": "It is recen",
+        "answer": "It is not repeated.",
+        "tip":"Data will be repeated when it is not free of duplicate value."
+
+
+    },
+    {
+        "question": "When do we speak of an excellent data quality",
+        "optionA": "If it leads to insight that helps the organization make better choices.",
+        "optionB": "if it’s narrows opportunities",
+        "optionC": "if it’s difficult",
+        "optionD": "if it’s easy to use",
+        "answer": "If it leads to insight that helps the organization make better choices.",
+        "tip":"If the quality of the data is excellent, it can be easily processed and analyzed to gain insights that will help an organization make better decisions."
+
+
+    },
+    {
+        "question": "Which of the following answers is not an aspect of data quality?",
+        "optionA": "Accuracy",
+        "optionB": "Completeness",
+        "optionC": "Validation",
+        "optionD": "Consistency.",
+        "answer": "Consistency.",
+        "tip":"The five aspects of data quality are accuracy, completeness, consistency validity and integrity."
+
+
+    },
+    {
+        "question": "Which of the following individual is responsible for datamanagement and data quality from a business perspective?",
+        "optionA": "Business Analyst",
+        "optionB": "Data architect",
+        "optionC": "Data analys",
+        "optionD": "Data steward.",
+        "answer": "Data steward.",
+        "tip":"A data stewards is someone who handle all things related to data processing, data policies, data guidelines and administer the organisation’s valuable information in compliance with policy and regulatory obligations."
+
+
+    },
+    {
+        "question": "Which of the following answers is the process of reviewing source data, understanding structure, content and interrelationships, and identifying potential for dataprojects?",
+        "optionA": "Data profiling.",
+        "optionB": "Data enrichment",
+        "optionC": "Data caving",
+        "optionD": "Data refinement",
+        "answer": "Data profiling.",
+        "tip":"Data Profiling can be defined as a process that automates the identification of problematic data and metadata while enabling the correction of inconsistencies, redundancies and inaccuracies in the data"
+
+
+    },
+    {
+        "question": "What is a datawarehouse?",
+        "optionA": "A data warehouse is a system that pulls together data from many different sources within an organization for reporting and analysis.",
+        "optionB": "A ware house made of databass",
+        "optionC": "A warehouse full of databases",
+        "optionD": "Completeness, uniqueness, timeliness, difficulties, understandable and accuracy",
+        "answer": "A data warehouse is a system that pulls together data from many different sources within an organization for reporting and analysis.",
+        "tip":"Databases are normally optimized for read-write operations of single-point transactions, while data warehouses are applied for big analytical queries"
+
+
+    },
+
+    {
+        "question": "What are the six core dimensions of data quality?",
+        "optionA": "Completeness, uniqueness, timeliness, difficulties, variety and accuracy",
+        "optionB": "Completeness, uniqueness, timeliness, difficulties, usefull and accuracy",
+        "optionC": "Completeness, uniqueness, timeliness, validity, consistency and accurac.",
+        "optionD": "Completeness, uniqueness, timeliness, difficulties, understandable and accuracy",
+        "answer": "Completeness, uniqueness, timeliness, validity, consistency and accurac.",
+        "tip":"There is no widespread agreement for a definitive list of Data Quality Dimensions but most practitioners recognise the importance of 6 core dimensions: Completeness, uniqueness, timeliness, validity, consistency and accuracy."
+
+
+    }
+
+]
